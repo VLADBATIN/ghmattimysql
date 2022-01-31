@@ -1,9 +1,9 @@
 {
-    "user": "mysqluser",
-    "password": "password",
-    "host": "localhost",
+    "user": "u4154_hTveWUYF3U",
+    "password": "^OxPhf^r8kgvDz15kpEfbr^n",
+    "host": "45.153.88.3",
     "port": 3306,
-    "database": "test",
-    "connectionLimit": 10,
+    "database": "s4154_test",
+    "connectionLimit": 32,
     "dateStrings": true
 }
